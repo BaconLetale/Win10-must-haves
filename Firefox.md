@@ -59,7 +59,7 @@ I just use this user.js file and then tweak the user settings to my liking
 https://github.com/pyllyukko/user.js/
 The user.js file goes to the profile directory (easily accessible via about:profiles page)
 
-#Extensions
+# Extensions
 
 ## Ublock Origin
 This is always my first install. Blocks ads, many trackers, can be used to zap any part of the page, has custom rules, many filter lists to subscribe too. An absolute must have for any browser.
