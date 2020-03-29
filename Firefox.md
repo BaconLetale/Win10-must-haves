@@ -2,7 +2,7 @@
 
 # Profiles:  
 
-Accessed and created in about:profiles 
+Accessed and created in about:profiles   
 Commandline for choosing which profile to launch, ProfileName is case sensitive (Works on both Windows and GNU/linux):  
 firefox -P ProfileName
 
