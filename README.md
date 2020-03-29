@@ -44,14 +44,17 @@ Great terminal tool for various uses, including SSH.
 ## [Malwarebytes](https://www.malwarebytes.com/)
 Great addition to the windows defender(or any av). 
 
-## [qBittorrent](https://www.qbittorrent.org/)
+## [qBittorrent](https://www.qbittorrent.org/)  
 Best uTorrent client. Crossplatform.
 
-## [Visual Studio Code](https://code.visualstudio.com/)
+## [Visual Studio Code](https://code.visualstudio.com/)  
 Great companion to notepad++. Together any text file can be edited. This is better for large code, but notepad++ has better formatting plugins.
 
-## [7-zip](https://www.7-zip.org/)
+## [7-zip](https://www.7-zip.org/)  
 Best file archiver. Supports all common formats, is free and allows for in-archive editing.
 
-## [Discord](https://discordapp.com/)
+## [Discord](https://discordapp.com/)  
 No need for description.
+
+## (Needs Microsoft Store!!!) [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)  
+Replacement for Win10 sound menu. Adds features removed/moved in one of the earlier updates.
