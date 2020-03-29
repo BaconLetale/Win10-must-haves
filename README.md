@@ -52,3 +52,6 @@ Great companion to notepad++. Together any text file can be edited. This is bett
 
 ## [7-zip](https://www.7-zip.org/)
 Best file archiver. Supports all common formats, is free and allows for in-archive editing.
+
+## [Discord](https://discordapp.com/)
+No need for description.
