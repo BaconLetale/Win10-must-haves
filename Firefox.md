@@ -2,9 +2,14 @@
 
 # Profiles:  
 
+Accessed and created in about:profiles 
+Commandline for choosing which profile to launch, ProfileName is case sensitive (Works on both Windows and GNU/linux):  
+firefox -P ProfileName
+
 ## Daily usage profile  
 
-### about:config tweaks  
+### about:config tweaks    
+(If a boolean does not exist, use the + button to create one and choose the right option)
 
 **Prevent WebRTC leak:**  
 media.peerconnection.enabled
