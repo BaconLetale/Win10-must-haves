@@ -12,7 +12,7 @@ firefox -P ProfileName
 (If a boolean does not exist, use the + button to create one and choose the right option)
 
 **Prevent WebRTC leak:**  
-media.peerconnection.enabled
+media.peerconnection.enabled = false
 
 **Prevent browser fingerprinting**  
 privacy.resistfingerprinting = true
@@ -43,19 +43,19 @@ geo.enabled = false
 plugin.scan.plid.all = false
 
 **Disable telemetery**  
-browser.newtabpage.activity-stream.feeds.telemetry = false
-browser.newtabpage.activity-stream.telemetry = false
-browser.pingcentre.telemetry = false
-devtools.onboarding.telemetry-logged = false
-media.wmf.deblacklisting-for-telemetry-in-gpu-process = false
-toolkit.telemetry.archive.enabled = false
-toolkit.telemetry.bhrping.enabled = false
-toolkit.telemetry.firstshutdownping.enabled = false
-toolkit.telemetry.hybridcontent.enabled = false
-toolkit.telemetry.newprofileping.enabled = false
-toolkit.telemetry.unified = false
-toolkit.telemetry.updateping.enabled = false
-toolkit.telemetry.shutdownpingsender.enabled = false
+browser.newtabpage.activity-stream.feeds.telemetry = false  
+browser.newtabpage.activity-stream.telemetry = false  
+browser.pingcentre.telemetry = false  
+devtools.onboarding.telemetry-logged = false  
+media.wmf.deblacklisting-for-telemetry-in-gpu-process = false  
+toolkit.telemetry.archive.enabled = false  
+toolkit.telemetry.bhrping.enabled = false  
+toolkit.telemetry.firstshutdownping.enabled = false  
+toolkit.telemetry.hybridcontent.enabled = false  
+toolkit.telemetry.newprofileping.enabled = false  
+toolkit.telemetry.unified = false  
+toolkit.telemetry.updateping.enabled = false  
+toolkit.telemetry.shutdownpingsender.enabled = false  
 
 
 ## Privacy oriented profile(can and WILL cause some sites to break)
