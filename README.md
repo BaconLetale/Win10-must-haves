@@ -50,8 +50,5 @@ Best uTorrent client. Crossplatform.
 ## [Visual Studio Code](https://code.visualstudio.com/)
 Great companion to notepad++. Together any text file can be edited. This is better for large code, but notepad++ has better formatting plugins.
 
-## [Steam](https://store.steampowered.com/)
-Duh..
-
 ## [7-zip](https://www.7-zip.org/)
 Best file archiver. Supports all common formats, is free and allows for in-archive editing.
