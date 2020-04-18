@@ -75,9 +75,6 @@ I use **medium mode** for the privacy oriented profile. Will cause breakage but 
 ## Privacy Badger
 Good companion to Ublock Origin. It's not AS useful with the config tweaks, especially on the privacy profile, but it's good for daily usage. It differs from other extensions in that it learns by observing scripts and figuring out which one follows you and which one does not. Has some defaults of course. The learning nature of this extension means breakage occurs less than with other similar extensions. It's easy to disable it too in case something breaks.
 
-## HTTPS Everywhere
-A no brainer extensions. It ensures that all communications are encrypted with the HTTPS protocol. Can be enforced. No reason to not install this extensions. It's even included in the Tor Browser bundle by default.
-
 ## Decentraleyes
 "It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking. Complements regular content blockers."
 The description pretty much sums it up.
