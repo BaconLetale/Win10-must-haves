@@ -14,21 +14,11 @@ firefox -P ProfileName
 **Prevent WebRTC leak:**  
 media.peerconnection.enabled = false
 
-**Prevent browser fingerprinting**  
+**Prevent browser fingerprinting**  (can break things)  
 privacy.resistfingerprinting = true
 
 **Disable TLS false start**  
 security.ssl.enable_false_start = false
-
-**3DES has known security flaws, so it's good to disable it**  
-security.ssl3.rsa_des_ede3_sha = false
-
-**Require safe negotiation**  
-security.ssl.require_safe_negotiation = true
-
-**Prevent usage of old TLS**  
-security.tls.version.min = 3  
-security.tls.version.max = 4
 
 **Disable 0 round trip time**  
 security.tls.enable_0rtt_data = false 
