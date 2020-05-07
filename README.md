@@ -29,6 +29,12 @@ A no brainer. Best video player for Windows. Can play pretty much everything.
 ## [K-Lite Codec pack](https://codecguide.com/download_kl.htm)
 A must have, after installing it, there is pretty much no way of encountering a video file that cannot be played.
 
+## [Debotnet](https://github.com/mirinsoft/debotnet)
+Useful tool for debloating Windows if one desires(pointless on newer machines), tweak functions of Windows and disable telemetry. A more modern version is in works and it linked below.
+
+## [sharpapp](https://github.com/mirinsoft/sharpapp)
+Successor to debotnet. WIll be more modern and faster, with more modularity as well. For now however it's not yet on par with debotnet feature and intuitiveness-wise. 
+
 ## [OOSU10](https://www.oo-software.com/en/shutup10)
 Shutup10, great tool for easier management of Window's functionality and for disabling telemetry and annoyances.
 
