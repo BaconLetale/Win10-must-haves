@@ -1,6 +1,12 @@
 # Win10-must-haves
 List of programs/tweaks to do after installing Windows. For me to remember or anyone else interested.
 
+# Package manager
+## [Chocolatey](https://chocolatey.org/)
+A package manager for Windows.
+
+Most or all of the programs in this repo can and should be installed using this. It will handle downloading, installing and updating of apps, as well as install any required dependencies.
+
 # Replacing Windows's built-in features:
 
 ## [Listary](https://www.listary.com/)
