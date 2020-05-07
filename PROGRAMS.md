@@ -43,9 +43,6 @@ Open source image editor.
 ## [Blender](https://www.blender.org/)
 Well known 3D editor.
 
-## [Chocolatey](https://chocolatey.org/)
-A package manager for Windows.
-
 ## [AutoHotkey](https://www.autohotkey.com/)
 Scripting language for automating tasks and key combinations.
 
