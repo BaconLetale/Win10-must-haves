@@ -27,7 +27,10 @@ buffer and allows multiple connections, which can often bypass speed limits on w
 A no brainer. Best video player for Windows. Can play pretty much everything.
 
 ## [K-Lite Codec pack](https://codecguide.com/download_kl.htm)
-A must have, after installing it, there is pretty much no way of encountering a video file that cannot be played.
+A must have, after installing it, there is pretty much no way of encountering a video file that cannot be played. The player can replace VLC.
+
+## [W10Privacy](https://www.w10privacy.de/english-home/)
+Tool for regaining some privacy on Windows as well as disabling many unneccesary features and services. Easier to use and lighter on debloating than the tools below.
 
 ## [Debotnet](https://github.com/mirinsoft/debotnet)
 Useful tool for debloating Windows if one desires(pointless on newer machines), tweak functions of Windows and disable telemetry. A more modern version is in works and it linked below.
@@ -36,7 +39,7 @@ Useful tool for debloating Windows if one desires(pointless on newer machines), 
 Successor to debotnet. WIll be more modern and faster, with more modularity as well. For now however it's not yet on par with debotnet feature and intuitiveness-wise. 
 
 ## [OOSU10](https://www.oo-software.com/en/shutup10)
-Shutup10, great tool for easier management of Window's functionality and for disabling telemetry and annoyances.
+Shutup10, great tool for easier management of Window's functionality and for disabling telemetry and annoyances. W10Privacy preferred however.
 
 ## [Foobar2000](https://www.foobar2000.org/)
 Best music player on Windows. Extremely customizable with very active community making addons and themes for it.
@@ -54,7 +57,7 @@ Replacement for Notepad. Supports pretty much all commonly and less commonly use
 Great terminal tool for various uses, including SSH.
 
 ## [Malwarebytes](https://www.malwarebytes.com/)
-Great addition to the windows defender(or any av). 
+Great addition to the windows defender. 
 
 ## [qBittorrent](https://www.qbittorrent.org/)  
 Best uTorrent client. Crossplatform.
@@ -67,6 +70,9 @@ Best file archiver. Supports all common formats, is free and allows for in-archi
 
 ## [Discord](https://discordapp.com/)  
 No need for description.
+
+## [Element](https://element.io/)
+A flawed (electron based!!!) matrix chat client. Currently the only one with a complete enough feature set however. 
 
 ## (Needs Microsoft Store!!!) [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)  
 Replacement for Win10 sound menu. Adds features removed/moved in one of the earlier updates.
