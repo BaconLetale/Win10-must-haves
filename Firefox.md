@@ -4,7 +4,7 @@
 
 Accessed and created in about:profiles   
 Commandline for choosing which profile to launch, ProfileName is case sensitive (Works on both Windows and GNU/linux):  
-firefox -P ProfileName
+`firefox -P ProfileName`
 
 ## Daily usage profile  
 
@@ -59,11 +59,7 @@ The user.js file goes to the profile directory (easily accessible via about:prof
 ## Ublock Origin
 This is always my first install. Blocks ads, many trackers, can be used to zap any part of the page, has custom rules, many filter lists to subscribe too. An absolute must have for any browser.
 
-I use **easy mode(default)** for daily browsing + some language specific filter lists.
-I use **medium mode** for the privacy oriented profile. Will cause breakage but an intermiediate user should have no trouble unbreaking any site.
-
-## Privacy Badger
-Good companion to Ublock Origin. It's not AS useful with the config tweaks, especially on the privacy profile, but it's good for daily usage. It differs from other extensions in that it learns by observing scripts and figuring out which one follows you and which one does not. Has some defaults of course. The learning nature of this extension means breakage occurs less than with other similar extensions. It's easy to disable it too in case something breaks.
+I use **medium mode**. Will cause (very slight) breakage but after a few days of using it all my sites that I use regularly were working with no problems. After that it's a matter of copying custom rules/filters over.
 
 ## Decentraleyes
 "It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking. Complements regular content blockers."
@@ -71,8 +67,6 @@ The description pretty much sums it up.
 
 ## Bitwarden
 Free and open source password manager. The android app is better than Last Pass's and it offers some great features. Integrates into the browser as well as the context menu. 
-
-## ScriptSafe(advanced tool, do not use in daily setup)
 
 
 
